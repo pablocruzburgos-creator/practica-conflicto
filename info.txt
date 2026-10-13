@@ -1,1 +1,1 @@
-Versión inicial del proyecto CAMBIADO POR LA RAMA
+"Cambio realizado desde rama-a." 
