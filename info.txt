@@ -1,1 +1,1 @@
-"Cambio realizado desde rama-a." 
+"Cambio realizado desde rama-a y rama-b." 
